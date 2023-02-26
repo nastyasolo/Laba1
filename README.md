@@ -1,4 +1,3 @@
 # Laba1
-//чрачвопв
-псрпс
-ил
+
+kpo how to create conflict
